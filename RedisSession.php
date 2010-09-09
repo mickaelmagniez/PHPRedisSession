@@ -12,7 +12,7 @@
  * 
  * <code>
  * <?php 
- *    require_once 'RedisSession.class.php';
+ *    require_once 'RedisSession.php';
  *    
  *    RedisSession::init ( array ( 
  *      'session_name' => 'redis_sess', 
